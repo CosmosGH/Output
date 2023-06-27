@@ -1,0 +1,6 @@
+a = 20
+name = 'Karl'
+deci = 5.5
+print(id(a))     # 2557830785936
+print(id(name))  # 2557830785956
+print(id(deci))  # 2557830785996
